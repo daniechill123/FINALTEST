@@ -1,0 +1,11 @@
+Revir.txt:
+The river flowed gently.
+ It reflected the moonlight.
+ Nearby, an owl hooted.
+ The forest seemed alive.
+
+dooc.txt:
+The old book lay on the table.
+Its pages were old and torn.
+A map fell out as it was opened.
+Where could it point to?  
