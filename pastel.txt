@@ -1,4 +1,11 @@
+<<<<<<< HEAD
+The castle was quiet at night.
+A lantern flickered in the cellar.
+A shadow moved behind the curtain.
+Was someone watching?
+=======
  The castle was quiet at night.
 A lantern flickered in the dungeon.
 A shadow moved behind the curtain.
 Was someone watching?
+>>>>>>> 224dd9b1e90f174fe9cc759cb91cf19e335828c9
